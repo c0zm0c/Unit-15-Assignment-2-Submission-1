@@ -1,0 +1,123 @@
+/* styles.css */
+body {
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items:center;
+    background-color: #038f0f;
+    opacity: 90%;
+    color:white;
+    padding: 0.5em 1em;
+    z-index: 1000;
+    
+
+}
+
+.logo {
+    font-size: 1.5em;
+    display: flex;
+    align-items: center;
+}
+
+.logo-img {
+    width: 50px;    /* Adjust as Needed */
+    height: auto;   /* Maintains Aspect Ratio*/
+    margin-right: 10px;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.nav-links li {
+    margin:0.2em;
+    
+    
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    border: solid 2px rgb(26, 26, 26);
+    border-radius: 1px;
+    background-color: white;
+   
+}
+
+.hamburger {
+    display: none;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.hamburger span {
+    background: white;
+    height: 3px;
+    width: 25px;
+    margin: 3px 0;
+}
+
+.profile {
+   margin: 0;
+   padding: 0;
+
+}
+
+.profile-img {
+    position: rela;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    
+}
+
+.company {
+   position: relative;
+
+}
+
+
+.company-txt {
+   text-align: center;
+   margin-top: 10px;
+   font-size: 1.2em;
+   color: black;
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+    .nav-links {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      top: 50px;
+      right: 0;
+      background-color: #333;
+      width: 100%;
+    }
+  
+    .nav-links.active {
+      display: flex;
+    }
+  
+    .hamburger {
+      display: flex;
+    }
+  }
+  
+  
+  
+
