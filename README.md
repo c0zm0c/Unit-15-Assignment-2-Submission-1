@@ -111,6 +111,7 @@ For the mobile device version, I prioritised linear, simple designs that allowed
 
 
 
+
 ### Computer Wireframing
 
 For the Computer device version, I attempted to follow a grid layout to prioritise linear and clear viewing, with focus on accessability and pleasing to the eyes.
@@ -121,21 +122,92 @@ For the Computer device version, I attempted to follow a grid layout to prioriti
 
 #### Staff Page (Computer)
 
-![alt text](<Images/Unit 15 Screenshots/Wireframe/PC/Meet the Team.png>)
+![Staff page Wireframing for Computer](<Images/Unit 15 Screenshots/Wireframe/PC/Meet the Team.png>)
 
 #### External Links (Computer)
 
-
+![External Links for Computer](<Images/Unit 15 Screenshots/Wireframe/PC/Links.png>)
 
 #### Job Specification (Computer)
 
+![Job Specification Page for Computer](<Images/Unit 15 Screenshots/Wireframe/PC/Specification and Requirements.png>)
 
 
 
+## Mockups
+
+After completing the wireframing I decided to create both variations as a mock using "FIGMA", an online design documents application used through a web browser. As stated before, these mockups/designs may changed depending on both feedback personal critisism.
+
+### Mobile Device Mockups
+
+Not much explanation is required, simple I have expanded on th wireframing uploaded above.
+I had to make some decision making as I had 2 versions each for both "Staff page" and "Job specification" page.
+
+#### Homepage (Mobile)
+
+![Homepage (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Homepage.png>)
+
+#### Staff Version 1 (Mobile)
+
+![Staff Version 1 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Meet the Team V1.png>)
+
+#### Staff Version 2 (Mobile)
+
+![Staff Version 2 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Meet the Team V2.png>)
+
+#### Online Application (Mobile)
+
+![Online Application (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Online Form.png>)
+
+#### Job Specification/Requirements Version 1 (Mobile)
+
+![Job Specification Version 1 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Requirements and Specification V1.png>)
+
+This version is more linear and easier to view due to the size of text
+
+#### Job Specification/Requirements Version 2 (Mobile)
+
+![Job Specification Version 2 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Requirements and Specification V2.png>)
+
+This version is more organised but results in the text being smaller (harder to view for those with visual impairments)
+
+#### External Links (Mobile)
+
+![Online Application (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Links.png>)
+
+#### Navigation Bar (Mobile)
+
+![Navigation Bar Final Version (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Navigation Bar Mockup.png>)
+
+I had decided that this navigation bar for mobile view was best. It provided the most space without blocking your view entirely. Having the navigation buttons span across the screen horizontally allowed for easier selection on the page the users desired to navigate to.
 
 
+### Computer Mockups
+
+Similiar to mobile version,  I created mockups from the computer wireframing from earlier.
+
+#### Homepage
+
+![Homepage (Computer)](<Images/Unit 15 Screenshots/Mockup/PC/Homepage.png>)
+
+#### Staff Page
+
+![Staff Page (Computer)](<Images/Unit 15 Screenshots/Mockup/PC/Meet the Team.png>)
+
+#### Online Application Page
+
+![Online Application (Computer)](<Images/Unit 15 Screenshots/Mockup/PC/Online Form.png>)
+
+#### Job Requirements Page
+
+![Job Requirements Page](<Images/Unit 15 Screenshots/Mockup/PC/Requirements and Specification.png>)
 
 
+## Flow Diagram
+
+Though only a rough version, The flow diagram below represents the direction of navigation.
+
+![Flow Diagram](<Images/Unit 15 Screenshots/Flow Diagram/Flow Diagram.png>)
 
 # P3 - Review the Website Design Proposals with Others to Identify and Inform Improvements
 
