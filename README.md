@@ -103,12 +103,6 @@ For the mobile device version, I prioritised linear, simple designs that allowed
 
 ![Navigation Bar Version 1](<Images/Unit 15 Screenshots/Wireframe/Mobile/Navigation Bar V1.png>)
 
-#### Navigation Bar (Mobile) Version 2 
-
-![Navigation Bar Version 2](<Images/Unit 15 Screenshots/Wireframe/Mobile/Navigation Bar V2.png>)
-
-![Navigtion Bar (Top) Version 2](<Images/Unit 15 Screenshots/Wireframe/Mobile/Navigation Bar Top V2.png>)
-
 
 
 
@@ -151,9 +145,7 @@ I had to make some decision making as I had 2 versions each for both "Staff page
 
 ![Staff Version 1 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Meet the Team V1.png>)
 
-#### Staff Version 2 (Mobile)
 
-![Staff Version 2 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Meet the Team V2.png>)
 
 #### Online Application (Mobile)
 
@@ -163,13 +155,15 @@ I had to make some decision making as I had 2 versions each for both "Staff page
 
 ![Job Specification Version 1 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Requirements and Specification V1.png>)
 
-This version is more linear and easier to view due to the size of text
 
 #### Job Specification/Requirements Version 2 (Mobile)
 
 ![Job Specification Version 2 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Requirements and Specification V2.png>)
 
 This version is more organised but results in the text being smaller (harder to view for those with visual impairments)
+
+
+
 
 #### External Links (Mobile)
 
@@ -203,31 +197,60 @@ Similiar to mobile version,  I created mockups from the computer wireframing fro
 ![Job Requirements Page](<Images/Unit 15 Screenshots/Mockup/PC/Requirements and Specification.png>)
 
 
+
+
 ## Flow Diagram
 
 Though only a rough version, The flow diagram below represents the direction of navigation.
 
 ![Flow Diagram](<Images/Unit 15 Screenshots/Flow Diagram/Flow Diagram.png>)
 
+
+
+
+
+
 # P3 - Review the Website Design Proposals with Others to Identify and Inform Improvements
 
+## Revieiwing
+
+After finishing my designs, I proceeded to send the prototypes to 2 of my collegues, Sami Ahmed and Usha Iqbal.
+
+Both had some feedback to provide. 
+
+The first feedback I received back was from Sami Ahmed. He liked the designs overall but requested to change the design of the "Staff Page" for mobile devices as it looked untidy and could cause issues with smaller screens. Using the received feedback, I changed out the old style to follow a 3 row grid layout instead. Opting for easier reading through simply scrolling upwards and downwards.
+
+![Sami Feedback](<Images/Unit 15 Screenshots/P3 Feedback Sami.png>)
+
+Below is the revised mockup for mobile device version of the staff webpage.
+
+![Staff Page Version 2 (Mobile)](<Images/Unit 15 Screenshots/Mockup/Mobile/Meet the Team V2.png>)
+
+The second feedback I received was from Usha Iqbal. He also liked the designs overall but recommended to revise the navigation bar on the mobile device version as the buttons were difficult to touch/use. He recommended using a hamburger dropdown menu.
+
+![Usha Feedback](<Images/Unit 15 Screenshots/P3 Feedback Usha.png>)
+
+Below is the revised mockup for the mobile device version of the navigation bar.
+
+![Navigation Bar Version 2](<Images/Unit 15 Screenshots/Wireframe/Mobile/Navigation Bar V2.png>)
+
+![Navigtion Bar (Top) Version 2](<Images/Unit 15 Screenshots/Wireframe/Mobile/Navigation Bar Top V2.png>)
 
 
 
 
+# P4 - Produce A Website for an Intended Audience and Purpose
 
-# P4 - Produce A Websute for an Intended Audience and Purpose
+Attached link is the developed website.
 
-
-
-
-
+[GitHub]https://c0zm0c.github.io/Unit-15-Assignment-2-Submission-1/
 
 
 # P5 - Test the Website for Functionality, Compatibility, and Purpose
 
+Please see below image of the completed test plan for the website HotBeans Web Development.
 
-
+![Test Plan](<Images/Unit 15 Screenshots/P5 Test Plan.png>)
 
 
 
