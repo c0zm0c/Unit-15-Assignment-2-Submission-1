@@ -75,20 +75,59 @@ Using wireframes create a clear and simply picture of how I intend the website t
 
 I decided to do 2 variations of wireframing, one version to represent the computer-viewed website, and the other to display the mobile device-viewed website.
 
-### Mobile Wireframing
+#### Mobile Wireframing
 
 For the mobile device version, I prioritised linear, simple designs that allowed the user to view almost all content by simply scrolling down and navigating to another page through the navigation bar on the top of the screen. 
 
-### Home Page (Mobile)
+#### Home Page (Mobile)
 
-![alt text](Homepage.png)
+![Homepage Wireframing for Mobile Devices](<Images/Unit 15 Screenshots/Wireframe/Mobile/Homepage.png>)
+
+#### Staff Page (Mobile)
+
+![Staff page Wireframing for Mobile Devices](<Images/Unit 15 Screenshots/Wireframe/Mobile/Meet the Team.png>)
+
+#### Job Specification Page (Mobile)
+
+![Job Specification Page for Mobile Devices](<Images/Unit 15 Screenshots/Wireframe/Mobile/Requirements and Specification.png>)
+
+#### Online Application Page (Mobile)
+
+![Online Application Page for Mobile Devices](<Images/Unit 15 Screenshots/Wireframe/Mobile/Online Form.png>)
+
+#### External Links Page (Mobile)
+
+![External Links to Resources](<Images/Unit 15 Screenshots/Wireframe/Mobile/Links.png>)
+
+#### Navigation Bar (Mobile) Version 1
+
+![Navigation Bar Version 1](<Images/Unit 15 Screenshots/Wireframe/Mobile/Navigation Bar V1.png>)
+
+#### Navigation Bar (Mobile) Version 2 
+
+![Navigation Bar Version 2](<Images/Unit 15 Screenshots/Wireframe/Mobile/Navigation Bar V2.png>)
+
+![Navigtion Bar (Top) Version 2](<Images/Unit 15 Screenshots/Wireframe/Mobile/Navigation Bar Top V2.png>)
 
 
-### Staff Page (Mobile)
 
-### Job Specification Page (Mobile)
+### Computer Wireframing
 
-### Online Application Page (Mobile)
+For the Computer device version, I attempted to follow a grid layout to prioritise linear and clear viewing, with focus on accessability and pleasing to the eyes.
+
+#### Homepage (Computer)
+
+![Homepage Wireframing for Computer](<Images/Unit 15 Screenshots/Wireframe/PC/Homepage.png>)
+
+#### Staff Page (Computer)
+
+![alt text](<Images/Unit 15 Screenshots/Wireframe/PC/Meet the Team.png>)
+
+#### External Links (Computer)
+
+
+
+#### Job Specification (Computer)
 
 
 
