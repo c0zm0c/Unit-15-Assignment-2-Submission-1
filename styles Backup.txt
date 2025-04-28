@@ -3,20 +3,22 @@ body {
     font-family: arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color:#038f0f
 }
 
 .navbar {
+    position: fixed;
     display: flex;
-    position: relative;
+    top: 0;
+
+    width: 100%;
+    z-index: 1000;
     justify-content: center;
     align-items:center;
-    background-color: #038f0f;
-    opacity: 90%;
+    background-color: #03b311c0;
+    opacity: 80%;
     color:white;
     padding: 0.5em 1em;
-    z-index: 1000;
-    
-
 }
 
 .logo {
@@ -75,27 +77,93 @@ body {
 }
 
 .profile-img {
-    position: rela;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: auto;
-    margin: 0 auto;
+    opacity: 100%;
+    
     
 }
 
-.company {
-   position: relative;
 
+.company {
+   position: block;
+   border: #333;
+   width: 100%;
+   margin-left: 10px;
+   margin-top: 1200px;
+   
+   
+   border-radius: 70px;
+   background-color: #f3f3f3;
+   z-index: 500;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+  
 }
 
 
 .company-txt {
    text-align: center;
-   margin-top: 10px;
    font-size: 1.2em;
    color: black;
+   border: solid rgb(0, 0, 0);
+   border-radius: 20px;
+   width: 50%;
+  
+   
+   z-index: 501;
 }
+.map-container {
+    max-width: 100%;
+    overflow: hidden;
+    color: red;
+    width: 500px;
+    height: 500px;
+    display: flex;
+    align-items: left;
+    margin-left: -50px;
+    border: solid black;
+    border-radius: 20px;
+}
+
+#embed-map-canvas {
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
+
+iframe {
+    height: 100%;
+    width: 100%;
+    border: 0;
+}
+
+.our-googlemap-code {
+    display: block;
+    margin-top: 10px;
+    text-decoration: none;
+    color: blue;
+}
+
+#embed-map-canvas img {
+    max-height: none;
+    max-width: none !important;
+    background: none !important;
+}
+.footer-txt {
+    background-color: #333; /* Dark background */
+    color: white; /* White text */
+    text-align: center; /* Center the text */
+    padding: 20px; /* Add some padding */
+    position: relative;
+}
+
+
+
 
 /* Responsive Design */
 @media screen and (max-width: 768px) {
