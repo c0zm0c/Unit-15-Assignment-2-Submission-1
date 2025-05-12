@@ -256,18 +256,104 @@ Please see below image of the completed test plan for the website HotBeans Web D
 
 # P6 - Review the Extent to Which the Website meets Client Requirements
 
+Within this part I will be reviewing the extent to which the website meets the client's requirements. Referring to P2, I identified the clients requirements with the production and usage of the website.
+Please see below for identified requirements
 
+## Requirements
 
+"Within the brief, I have been requested to produce a website section that helps the company promote themselves to new trainees as a part of a recruitment process. As part of the website development I have been tasked with producing a website that includes the following:
 
+    1. A profile of the company itself, which would include a brief summary of the company, company image and address location.
 
+    2. Profiles of trainees within the company, this includes their profile picture and brief description of who they are and what they do.
 
+    3. Job specifications that highlight the potential work they will be partaking within the company, as well as, the required             qualifications to be eligible for hire.
+
+    4. Page dedicated to online applications
+
+    5. Links to free and premium web development courses.
+
+Analysing the passage above, I have summarised the clients needs and how I can successfully meet these requirements.
+The first overall client requirement is to produce a functioning website that can be used by potential clients and recruits looking for work within the web development environment. To meet this requirement I will need to produce a website that does the following:
+
+    1. Navigates between different pages of the website
+
+    2. Allows the user to view the following pages; home page, existing team members, company profile information, job specification and required qualifications, and online form, and additional courses for web development.
+
+    3. Allow the users to enter and send an online application form to the company through the website.
+
+    4. Generally advertise the company to potential new hires.
+
+The second overall client requirement is to ensure the website clearly states the minimum recruitment requirements as to ensure that only web developers (trainees and entry-level) are permitted to apply for trainee positions."
+
+## Homepage
+
+Within the homepage I have met several client requirements. One of the requirements met was to include information on the company, this includes; the company profile, the summary of the company, the company building and the address. All had been laid out within a linear layout. 
+
+![Company Address](<Images/Unit 15 Screenshots/P6 Company Address.png>)
+
+![Company Summary](<Images/Unit 15 Screenshots/P6 company Summary.png>)
+
+## Staff Page
+
+Within the staff page I have met several client requirements. One of the requireents was to include company employees/trainees who new employees would be working with. This included a profile picture, their names and a bit about themselves.
+
+![Employee Profile](<Images/Unit 15 Screenshots/P6 Employee Profile.png>)
+
+## Job Specification Page
+
+Within the job specification page I had met two requirements. One was to advertise available job roles that individuals who are qualified for can try for. Another was showing available jobs, their requirements, the expected performance from the individual and any additionals that come with the job.
+
+![Job Specification](<Images/Unit 15 Screenshots/P6 Job Specification.png>)
+
+## Online Form
+
+Within the online form page, I had met another two requirements. To create a dedicate a whole page to an online form as well as the form itself to be functional and easy to use.
+
+![Online Form](<Images/Unit 15 Screenshots/P6 Online Form.png>)
+
+## Navigation Bar
+
+Within the navigation bar I had met two requirements. One that allowed users to navigate through the website using hyperlinks, and another that allowed them to view and interact with the following pages; Allows the user to view the following pages; home page, existing team members, company profile information, job specification and required qualifications, and online form, and additional courses for web development.
+
+![Navigation Bar](<Images/Unit 15 Screenshots/P6 Navigation Bar.png>)
 
 # M2 Justify the Design Decisions, Explaining How They Will Meet the User's Needs and be Fit-for-Purpose.
 
+My design decisions were made with accessability as the main focus-point. I wanted to ensure that almost all users who were visually or generally-impaired were able to access and use my website with little to no issues. To reach this goal I designed my website to include a the following features.
+-flexible viewpoint to allow for users to zoom in and out of the website to allow them to enlarge text, and have access to the website on different devices.
+-Plenty of white space to allow users to focus on the main content (images, text, and navigation).
+-Clean and easy to read font choice (ROBOTO) to allow users to read the text easier.
 
+The main important design choice I made was using flexible viewpoint. The reason for this is that the majority of users will likely be mobile device users. With this mindset, I decided to ensure that the website can be viewed from a mobile device (a device with a much smaller screen) to maximise accessability. This will change the aspect ratio and view of the webpage depending on what device you are using. 
 
+To further support the point of meeting a user's needs, I accompanied the viewpoint changes with using white boxes as text backgrounds to further improve focus on the content of text, using white spaces aids users using small device screens and are visually impaired to have access to the website and are able to use it without issues. Ensuring my website is fit-for-purpose and highly accessable.
+
+The choice of font was considered after experimenting with different font families to see which font was easier to read. I had involved my dad who struggles to see without glasses to aid me in my choice, out of all the choices made, he agreed that "roboto" was by far the easiest to read compared to the rest.
+
+Additional design choices was the navigation bar design, I specifically wanted to contain the hyperlinks to the centre of the screen for users to see. In my mind, a centered navigation bar makes it far easier to locate as compared to navigation bars hidden behind a button. Simplicity and accessability were my priority on the navigation bar. 
+
+The colour scheme I used was not focused on accessability as the other features were. I decided that the colour scheme should be an addition to engagement and eye-pleasing for the users. Using colours that did not clash with the website design helped portray professionalism and engagement with the users. Making the website be viewed by users as "fit-for-purpose"
+
+Within the designing, I made the choice that each webpage would have its own style sheet. this was to make it more manageble and easier to fix errors or make improvements down the line. Using this method I believed that finding the specific sections to redesign/style would be much easier and much more time saving, especially when someone external may need to amend some issues within the website styles/html. 
 
 
 
 
 # M3 - Optimise a Website to Meet Client Requirements
+
+After receiving feedbaack from a fellow collegue, I had decided to re-adjust my footer of the website. 
+
+As mentioned in the email attached,
+![Feedback for Website](<Images/Unit 15 Screenshots/M3 Optimisation.png>)
+
+The footer was out of place and the colour scheme used did not match the overall website's colour scheme. 
+I was also recommended to include social media buttons. The original design simply contained a footer with the company's address displayed within the centre of the footer. 
+
+Please see below for original design.
+![Original Footer](<Images/Unit 15 Screenshots/M3 Original Footer.png>).
+
+With the new design, I moved the address to the left side of the footer, changed the colour to use the navigation bars colour scheme and included a social media button for "Facebook".
+
+Please see below for the optimised design,
+![New Footer](<Images/Unit 15 Screenshots/M3 New Footer.png>).
